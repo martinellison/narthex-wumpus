@@ -1,0 +1,32 @@
+/* https://paletton.com/#uid=1000u0k00g407rG01l-029R0u1j */
+
+.color-primary-0 {
+    color: #808080
+}
+
+/* Main Primary color */
+.color-primary-1 {
+    color: #DDDCDC
+}
+
+.color-primary-2 {
+    color: #ACACAC
+}
+
+.color-primary-3 {
+    color: #4E4E4E
+}
+
+.color-primary-4 {
+    color: #0A0A0A
+}
+
+html,
+body {
+    color: #808080;
+    background-color: #DDDCDC;
+}
+input, button {
+    color: #4E4E4E;
+    background-color: #ACACAC;
+}

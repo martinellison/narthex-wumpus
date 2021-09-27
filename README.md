@@ -1,2 +1,5 @@
-# narthex-wumpus
-(will be) an example of a portable application that can run on PC or Android mobile using the narthex-engine-trait framework. This repository providex the traditional Wumpus game.
+Old game
+
+This Source Code Form is subject to the terms of the Mozilla Public
+License, v. 2.0. If a copy of the MPL was not distributed with this
+file, You can obtain one at https://mozilla.org/MPL/2.0/.
